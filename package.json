@@ -1,0 +1,19 @@
+{
+  "name": "tiqu",
+  "version": "1.0.9",
+  "description": "qweeweeq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tiquxinxi": "./link.js"
+  },
+  "keywords": [],
+  "author": "clm1100",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.16.8",
+    "xlsx-style": "^0.8.13"
+  }
+}
